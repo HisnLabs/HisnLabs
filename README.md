@@ -13,6 +13,7 @@
   <a href="https://hisnlabs.com/guardrino/en"><img alt="Website" src="https://img.shields.io/badge/website-hisnlabs.com-0f1417?style=for-the-badge"></a>
   <a href="https://huggingface.co/Hisnlabs"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Hisnlabs-f5a524?style=for-the-badge&logo=huggingface&logoColor=white"></a>
   <a href="https://x.com/hisnlabs"><img alt="X" src="https://img.shields.io/badge/X-@hisnlabs-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Hisnlab"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@Hisnlab-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/hisnlabs"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hisnlabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://huggingface.co/spaces/Hisnlabs/guardrino-demo"><img alt="Live demo" src="https://img.shields.io/badge/live%20demo-try%20it-14b8a6?style=for-the-badge"></a>
 </p>
