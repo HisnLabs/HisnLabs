@@ -19,6 +19,8 @@
   <a href="https://huggingface.co/spaces/Hisnlabs/guardrino-demo"><img alt="Live demo" src="https://img.shields.io/badge/live%20demo-try%20it-14b8a6?style=for-the-badge"></a>
 </p>
 
+<img align="right" width="140" src="https://raw.githubusercontent.com/HisnLabs/HisnLabs/main/assets/made-in-uae-badge.png" alt="Made in UAE — Guardrino, the AI guardian">
+
 ### What Guardrino does
 - **Stops prompt injection and jailbreaks**, including attacks hidden in documents, web pages and tool results
 - **Masks Gulf personal data and secrets**: Emirates ID, iqama, IBAN, phone numbers, API keys
