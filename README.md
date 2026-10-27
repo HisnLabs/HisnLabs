@@ -25,7 +25,7 @@
 - **Stops prompt injection and jailbreaks**, including attacks hidden in documents, web pages and tool results
 - **Masks Gulf personal data and secrets**: Emirates ID, iqama, IBAN, phone numbers, API keys
 - **Follows the whole conversation** to catch slow, multi-message attacks
-- **Checks run on your own servers or in a UAE data centre**: the check itself never sends your messages elsewhere; where your AI model runs is your choice
+- **Runs on your own servers (Guardrino Sovereign) or in a cloud region in your country, or the nearest one available (Guardrino Cloud)**: the check itself never sends your messages anywhere else; where your AI model runs is your choice
 
 **Works with:** OpenAI-compatible APIs (with streaming) · LiteLLM · MCP
 
@@ -46,7 +46,7 @@
 
 <sub><sup>‡</sup> The same model at a stricter threshold, so it blocks as few safe messages as ArabGuard.</sub><br>
 <sub><sup>†</sup> Built for Arabic by another team, scored the same way.</sub><br>
-<sub>Method: HisnLabs' own test set of 13,249 attacks and 31,348 safe messages, mostly Arabic. That favours a model trained on similar data, like ours, so this is not an independent test. Each model's threshold was set so it blocks 1 in 100 safe messages on a validation sample. Tested 26–27 October 2026. The outside models were built for English or for one dialect; this is not a criticism of them. One public source in the test set (arabic-guardrail, 2,271 attacks) may be in other models' training data, and its training split was in ours; without it, Guardrino-t7 catches 4,596 of 5,603 Arabic attacks (82%).</sub>
+<sub>Method: HisnLabs' own test set of 13,249 attacks and 31,348 safe messages, mostly Arabic. That favours a model trained on similar data, like ours, so this is not an independent test. Each model's threshold was set so it blocks 1 in 100 safe messages on a validation sample. Tested 26–27 October 2026. The outside models were built for English, for one dialect, or mainly for Modern Standard Arabic; this is not a criticism of them. One public source in the test set (arabic-guardrail, 2,271 attacks) may be in other models' training data, and its training split was in ours; without it, Guardrino-t7 catches 4,596 of 5,603 Arabic attacks (82%).</sub>
 <!-- arabic-comparison:end -->
 
 ### Start here
